@@ -42,6 +42,7 @@ const Main = () => {
         <div className='popup-overlay'>
           <div className='popup-box'>
             <p>🎁 Obrigado pela sua doação!</p>
+            <p>🎁 Obrigado pela sua doação!</p>
             <button className='close-button' onClick={() => setMostrarPopup(false)}>Fechar</button>
           </div>
         </div>
