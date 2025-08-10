@@ -21,13 +21,13 @@ const Main = () => {
           <Countdown targetDate="2025-12-25T23:59:59" />
         </div>
         <div className='container-descricao-img'>
-          <img src="./src/assets/imgs/illustration-1.svg" alt="" />
+          <img src="public/imgs/illustration-1.svg" alt="" />
         </div>
       </div>
 
       <div className='container-content'>
         <div className='container-ilustracao'>
-          <img src="./src/assets/imgs/illustration.svg" alt="" />
+          <img src="public/imgs/illustration.svg" alt="" />
         </div>
         <div className='container-descricao-main-2'>
           <h1>Conectamos generosidade ao redor do mundo.</h1>
