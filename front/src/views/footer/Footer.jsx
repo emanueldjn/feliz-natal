@@ -6,15 +6,15 @@ const Footer = () => {
     <div className='hero'>
         <div className='footer-main'>
             <div className='footer-logo'>
-                <img src="public/imgs/logo.svg" alt="logo Feliz Natal" />
+                <img src="/imgs/logo.svg" alt="logo Feliz Natal" />
             </div>
 
             <div className='footer-icons'>
-                <img src="public/imgs/logo-twitter.svg" alt="" />
-                <img src="public/imgs/logo-whatsapp.svg" alt="" />
-                <img src="public/imgs/logo-instagram.svg" alt="" />
-                <img src="public/imgs/logo-facebook.svg" alt="" />
-                <img src="public/imgs/logo-google.svg" alt="" />
+                <img src="/imgs/logo-twitter.svg" alt="" />
+                <img src="/imgs/logo-whatsapp.svg" alt="" />
+                <img src="/imgs/logo-instagram.svg" alt="" />
+                <img src="/imgs/logo-facebook.svg" alt="" />
+                <img src="/imgs/logo-google.svg" alt="" />
             </div>
         </div>
     </div>
